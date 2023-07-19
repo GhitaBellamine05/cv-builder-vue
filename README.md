@@ -1,6 +1,6 @@
 # cvy
 
-![Ikrom's web summary card](cvf without shape.png)
+![Ikrom's web summary card](cvy_.png)
 
 Cvy is a simple CV maker that makes CV creation faster and easier in both English , Uzbek and Russia.
 
