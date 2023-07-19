@@ -1,29 +1,21 @@
-# cv
+# cvy
 
-This template should help get you started developing with Vue 3 in Vite.
+![Ikrom's web summary card](cvf without shape.png)
 
-## Recommended IDE Setup
+Cvy is a simple CV maker that makes CV creation faster and easier in both English , Uzbek and Russia.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+It's built with <b> Vue.JS, TailwindCSS, <img src="https://pinia.vuejs.org/logo.svg" width="10" /> Pinia</b> and deployed in Netlify.
 
-## Customize configuration
+Demo: https://cvy.netlify.app/
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+<hr>  
 
-## Project Setup
+## Build Setup
 
 ```sh
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
 
-### Compile and Minify for Production
-
-```sh
 npm run build
 ```
