@@ -1,0 +1,98 @@
+{
+    "settings": {
+        "cv": "uz",
+        "languages": {
+            "cv_languages": "Tillar",
+            "cv_colors": "Ranglar",
+            "cv_personal_details": "Shaxsiy ma'lumotlar",
+            "first_name": "Ism",
+            "last_name": "Familiya",
+            "job_title": "Ish nomi / Hozirgi ishingiz",
+            "about_me": "Men haqimda",
+            "contact": "Kontakt",
+            "email": "Email",
+            "phone": "Telefon",
+            "location": "Manzil",
+            "skills": "Ko'nikmalar",
+            "tech": "Kasbiy malakalar",
+            "soft": "Mahoratlar",
+            "language": "Tillar",
+            "add_language": "Yangi qator qo'shish",
+            "social": "Ijtimoiy tarmoqlar",
+            "experience": "Tajribalarim",
+            "add_experience": "Tajriba qo'shish",
+            "from": "Dan",
+            "to": "Gacha",
+            "summary": "Qisqacha bayon",
+            "educations_and_certifications": "Ta'lim",
+            "add_educations_and_certifications": "Yana qo'shish"
+        },
+        "colors": "#000",
+        "buttons": {
+            "print_or_download": "Chop etish / yuklash - (PDF)",
+            "download_as_json": "Yuklash - JSON",
+            "update_json_file": "Yangilish JSON file",
+            "remove_all_data": "Ma'lumotlarni o'chirish"
+        }
+    },
+    "personal_details": {
+        "first_name": "Name",
+        "last_name": "Name",
+        "job_title": "Deputy Director Parks Department",
+        "about_me": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero mollitia et velit nemo? Qui ratione consectetur quos molestiae nobis aut, dolore molestias, ab libero dolor quis debitis inventore accusamus est sed doloremque? Vero asperiores quasi aspernatur architecto soluta, laudantium pariatur, ipsam voluptatem repellendus iste mollitia amet, explicabo aliquam maxime optio temporibus nulla tempora veritatis consectetur animi! Veniam odit repellat itaque! Corporis quas pariatur id commodi.",
+        "email": "mail@gmail.com",
+        "phone": "95 540 25 02",
+        "location": "Tashkent, Uzbekistan"
+    },
+    "skills": {
+        "isTech": true,
+        "tech": [
+            "Microsoft",
+            "Word",
+            "Perfect Mind",
+            "Excel"
+        ],
+        "isSoft": true,
+        "soft": [
+            "Positivity",
+            "Leadership",
+            "Public Speaking"
+        ],
+        "isAllLanguage": true,
+        "language": [
+            {
+                "isLanguage": true,
+                "name": "Uzbek",
+                "level": 60
+            }
+        ]
+    },
+    "socials": {
+        "github": "",
+        "twitter": "@username",
+        "instagram": "@username",
+        "linkedin": "@username",
+        "telegram": "",
+        "web": ""
+    },
+    "experiences": [
+        {
+            "isExperience": true,
+            "title": "Title",
+            "location": "Tashkent, Uzbekistan",
+            "from": "2022",
+            "to": "Current",
+            "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero mollitia et velit nemo? Qui ratione consectetur quos molestiae nobis aut, dolore molestias, ab libero dolor quis debitis inventore accusamus est sed doloremque? Vero asperiores quasi aspernatur architecto soluta, laudantium pariatur, ipsam voluptatem repellendus iste mollitia amet, explicabo aliquam maxime optio temporibus nulla tempora veritatis consectetur animi! Veniam odit repellat itaque! Corporis quas pariatur id commodi."
+        }
+    ],
+    "educations_and_certifications": [
+        {
+            "isTrue": true,
+            "title": "Title",
+            "location": "Tashkent, Uzbekistan",
+            "from": "2021",
+            "to": "Current",
+            "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero mollitia et velit nemo? Qui ratione consectetur quos molestiae nobis aut, dolore molestias, ab libero dolor quis debitis inventore accusamus est sed doloremque? Vero asperiores quasi aspernatur architecto soluta, laudantium pariatur, ipsam voluptatem repellendus iste mollitia amet, explicabo aliquam maxime optio temporibus nulla tempora veritatis consectetur animi! Veniam odit repellat itaque! Corporis quas pariatur id commodi."
+        }
+    ]
+}
