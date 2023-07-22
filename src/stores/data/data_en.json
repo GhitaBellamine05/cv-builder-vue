@@ -31,13 +31,13 @@
         "buttons": {
             "print_or_download": "Print or download as (PDF)",
             "download_as_json": "Download as JSON",
-            "update_json_file": "Update JSON file",
-            "remove_all_data": "delete all data"
+            "update_json_file": "Upload JSON file",
+            "remove_all_data": "Delete all data"
         }
     },
     "personal_details": {
-        "first_name": "Name",
-        "last_name": "Name",
+        "first_name": "Jhon",
+        "last_name": "Miller",
         "job_title": "Job title",
         "about_me": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero mollitia et velit nemo? Qui ratione consectetur quos molestiae nobis aut, dolore molestias, ab libero dolor quis debitis inventore accusamus est sed doloremque? Vero asperiores quasi aspernatur architecto soluta, laudantium pariatur, ipsam voluptatem repellendus iste mollitia amet, explicabo aliquam maxime optio temporibus nulla tempora veritatis consectetur animi! Veniam odit repellat itaque! Corporis quas pariatur id commodi.",
         "email": "mail@gmail.com",
