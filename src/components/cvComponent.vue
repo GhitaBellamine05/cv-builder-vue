@@ -90,7 +90,11 @@
                                 :key="language" v-show="language.isLanguage">
                                 <div class="flex justify-between">
                                     <p class="text-sm">{{ language.name.toUpperCase() }}</p>
-                                    <strong class="text-sm font-light">{{ language.level }}%</strong>
+                                    <!--<strong class="text-sm font-light">{{ language.level }}%</strong>-->
+                                    <strong v-if="language.level < 30" class="text-sm font-light">Beginner</strong>
+                                    <strong v-else-if="language.level >= 40 && language.level < 50"awesome class="text-sm font-light">ELementary</strong>
+                                    <strong v-else-if="language.level >= 50 && language.level < 80" class="text-sm font-light">Intermediate</strong>
+                                    <strong v-else-if="language.level >= 80 && language.level < 100" class="text-sm font-light">Advanced</strong>
                                 </div>
                                 <div class="h-2 relative w-full bg-[#d2d6db] rounded-xl">
                                     <div class="h-2 mt-1.5 rounded-xl"
